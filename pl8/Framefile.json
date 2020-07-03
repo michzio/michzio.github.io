@@ -1,0 +1,46 @@
+{
+    "device_frame_version": "latest",
+    "default": {
+        "keyword": {
+            "font": "./fonts/ARSMaquettePro-Regular.ttf"
+        },
+        "title": {
+            "font": "./fonts/ARSMaquettePro-Medium.ttf",
+            "color": "#000000"
+        },
+        "background": "./background.jpg",
+        "padding": 50,
+        "show_complete_frame": false,
+        "stack_title" : false,
+        "title_below_image": true,
+        "frame": "WHITE"
+    },
+    
+    "data": [
+        {
+            "filter": "Brainstorming",
+            "keyword": {
+                "color": "#000000"
+            }
+        },
+        {
+            "filter": "Organizing",
+            "keyword": {
+                "color": "#000000"
+            },
+            "frame": "ROSE_GOLD"
+        },
+        {
+            "filter": "Sharing",
+            "keyword": {
+                "color": "#000000"
+            }
+        },
+        {
+            "filter": "Styling",
+            "keyword": {
+                "color": "#000000"
+            }
+        }
+    ]
+}
